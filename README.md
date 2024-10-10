@@ -1,7 +1,7 @@
 ## Compilation
-''''
+```
 gcc -I. -o rotating_triangle rotating_triangle.c glad.c -lSDL2 -ldl -lm
-''''
+```
 ## Glad
 Glad lib pulled from https://glad.dav1d.de/
 
